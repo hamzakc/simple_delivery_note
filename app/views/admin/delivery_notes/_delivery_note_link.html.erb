@@ -1,0 +1,3 @@
+<%if @order.paid?%>
+  <li> <%=link_to("Delivery Note", admin_order_delivery_note_path(@order.number))%></li>
+<%end%>

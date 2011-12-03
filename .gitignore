@@ -1,0 +1,15 @@
+config/database.yml
+log/*.log
+tmp/**/*
+*.swp
+*.swo
+.DS_Store
+*.swp
+*.swo
+*.sql
+db/*.sqlite3
+db/schema.rb
+db/sphinx/*
+coverage/
+tmp/restart.txt
+public/assets/*
