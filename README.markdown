@@ -1,4 +1,5 @@
-= Simple Delivery Note
+Simple Delivery Note
+======================
 
 I needed a simple solution to print a delivery note for a Spree 0.11 site we have.  I know it is legacy but the site is running fine so no need to update it at the moment.
 
